@@ -75,7 +75,7 @@ Latin *(s)imulācrum* likeness, image, equivalent to *simulā* ( *re* ) to <u>si
 `sudo npm install -g jslint`
 
 ### one-liner install script
-- `curl https://raw.github.com/j00n/vimulacrum/master/install -l -o - | bash`
+- `curl https://raw.githubusercontent.com/j00n/vimulacrum/master/install -l -o - | bash`
 
 ## Notes on shortcut keys
 - `C-x` means control key + 'x' key
