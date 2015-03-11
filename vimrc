@@ -171,8 +171,8 @@
   " PHP
   "Bundle 'spf13/PIV'
   " PIV {
-    let g:DisableAutoPHPFolding = 0
-    let g:PIVAutoClose = 0
+    "let g:DisableAutoPHPFolding = 0
+    "let g:PIVAutoClose = 0
   " }
 
   " Python
@@ -252,7 +252,7 @@
   endif
   " }
 
-  " Mac OS X Terminal specific settings {
+  " Mac OS X Terminal and Ubuntu screen specific settings {
   if $TERM == "xterm-color" || $TERM == "xterm-256color"
     colorscheme neon
   endif
