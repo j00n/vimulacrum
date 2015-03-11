@@ -79,7 +79,7 @@
 
   Bundle 'nelstrom/vim-markdown-preview'
 
-  Bundle 'tpope/vim-markdown'
+  "Bundle 'tpope/vim-markdown'
 
   Bundle 'endwise.vim'
 
